@@ -1,6 +1,6 @@
 # EESD x IBOIS Scanned stones dataset
 
-This repo contains a dataset of several stones' 3d representations acquired by scanning. The dataset is made available for visualisation, filtering and selection through a web application living online at: [https://epfl-ibois.github.io/eesd-ibois-scanned-stones-dataset](https://epfl-ibois.github.io/eesd-ibois-scanned-stones-dataset).
+This repo contains a dataset of several stones' 3d representations acquired by scanning. The dataset is made available for visualisation, filtering and selection through a web application living online at: [https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/](https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/).
 
 ## Contributing to this dataset:
 
@@ -26,7 +26,7 @@ If you are familiar with this workflow, you can fork and clone this repo and dir
 
 ### 1. *Fork* this repo: Getting a local copy of the catalogue
 
-To update it with new objects, you will need to make a local copy of the catalogue. This copy will be modified when executing the `CatalogueExport` command from Rhinoceros 3D, adding new objects to it. Your updated local copy of the catalogue can be uploaded back to this repo (meaning it will also be live at https://epfl-ibois.github.io/eesd-ibois-scanned-stones-dataset).
+To update it with new objects, you will need to make a local copy of the catalogue. This copy will be modified when executing the `CatalogueExport` command from Rhinoceros 3D, adding new objects to it. Your updated local copy of the catalogue can be uploaded back to this repo (meaning it will also be live at https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/).
 
 1. Make sure you have installed the software listed above and have a GitHub account.
 2. Fork this repo by following instructions at https://github.com/ibois-epfl/eesd-ibois-scanned-stones-dataset/fork
@@ -47,7 +47,7 @@ Optionally, you can see the content of your local copy of the catalogue. For thi
 npm install
 npm start
 ```
-Point your browser to http://localhost:5000 to see the Catalogue Explorer web app running locally. You should see the same as: https://epfl-ibois.github.io/eesd-ibois-scanned-stones-dataset
+Point your browser to http://localhost:5000 to see the Catalogue Explorer web app running locally. You should see the same as: https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/
 
 ### 2. Generating data using `CatalogueExport` command in Rhino
 
@@ -83,7 +83,7 @@ npm start
 
 4. Make a pull request by following instructions at (replace your username) https://github.com/YOUR-USERNAME/eesd-ibois-scanned-stones-dataset/pull/new/master
 5. IBOIS team accepts the pull request finalising the update
-6. The updated version of the catalogue is live at https://epfl-ibois.github.io/eesd-ibois-scanned-stones-dataset
+6. The updated version of the catalogue is live at https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/
 
 ### 4. Keep your forked and local version of the catalogue up-to-date
 
