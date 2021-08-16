@@ -22,7 +22,7 @@ The proposed contributing workflow is based on git's meaning you can:
 2. getting it updated using `CatalogueExport` command in Rhino
 3. and update it online with a *pull request*.
 
-If you are familiar with this workflow, you can fork and clone this repo and directly hop to [2. Generating data](#2-generating-data) section. Once locally updated, you can make a pull request to save changes to this repo.
+If you are familiar with this workflow, you can fork and clone this repo and directly hop to [2. Generating data using `CatalogueExport` command in Rhino](#2-generating-data-using-catalogueexport-command-in-rhino) section. Once locally updated, you can make a pull request to save changes to this repo.
 
 ### 1. *Fork* this repo: Getting a local copy of the catalogue
 
