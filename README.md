@@ -12,7 +12,7 @@ The following steps come after the post-processing of the stone scans. You shoul
 
 - *Rhinoceros 3D*, version 7
 - *Cockroach* plugin for Rhinoceros 3D
-- *CockroachExtension* plugin for Rhinoceros 3D
+- *CatalogueExporter* plugin for Rhinoceros 3D - [Download and instructions](https://github.com/ibois-epfl/catalogue-exporter)
 - *Git* - [Setup instructions](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ### Overview
