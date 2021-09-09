@@ -11,6 +11,7 @@ The following steps come after the post-processing of the stone scans. You shoul
 ### Required software
 
 - *Rhinoceros 3D*, version 7
+- *Iris* plugin for Rhinoceros 3D - [Download](https://www.food4rhino.com/en/app/iris-export-rhino-models-web)
 - *Cockroach* plugin for Rhinoceros 3D
 - *CatalogueExporter* plugin for Rhinoceros 3D - [Download and instructions](https://github.com/ibois-epfl/catalogue-exporter)
 - *Git* - [Setup instructions](https://docs.github.com/en/get-started/quickstart/set-up-git)
