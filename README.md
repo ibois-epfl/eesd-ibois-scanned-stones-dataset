@@ -1,4 +1,4 @@
-# EESD x IBOIS Scanned stones dataset
+# IBOIS Scanned stones dataset
 
 This repo contains a dataset of several stones' 3d representations acquired by scanning. The dataset is made available for visualisation, filtering and selection through a web application living online at: [https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/](https://ibois-epfl.github.io/eesd-ibois-scanned-stones-dataset/).
 
